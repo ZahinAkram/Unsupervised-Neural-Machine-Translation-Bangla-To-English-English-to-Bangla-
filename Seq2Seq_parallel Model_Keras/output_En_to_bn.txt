@@ -1,0 +1,401 @@
+Input sentence: যাও।
+Decoded sentence: Go.
+
+-
+Input sentence: যান।
+Decoded sentence: Go.
+
+-
+Input sentence: যা।
+Decoded sentence: Go.
+
+-
+Input sentence: পালাও!
+Decoded sentence: Sit down.
+
+-
+Input sentence: পালান!
+Decoded sentence: Sit down.
+
+-
+Input sentence: কে?
+Decoded sentence: Who came?
+
+-
+Input sentence: আগুন!
+Decoded sentence: Where are the bogk?
+
+-
+Input sentence: বাঁচাও!
+Decoded sentence: Step outside.
+
+-
+Input sentence: বাঁচান!
+Decoded sentence: Step outside.
+
+-
+Input sentence: থামুন!
+Decoded sentence: Stop!
+
+-
+Input sentence: থামো!
+Decoded sentence: Stop!
+
+-
+Input sentence: থাম!
+Decoded sentence: Stop!
+
+-
+Input sentence: নমস্কার!
+Decoded sentence: The students laughed.
+
+-
+Input sentence: বুঝলাম।
+Decoded sentence: Sit down.
+
+-
+Input sentence: আমি চেষ্টা করি।
+Decoded sentence: I'm not proud of this.
+
+-
+Input sentence: একটু হাসুন।
+Decoded sentence: They don't care.
+
+-
+Input sentence: একটু হাসো।
+Decoded sentence: They don't care.
+
+-
+Input sentence: আক্রমণ!
+Decoded sentence: Do I have to change trains?
+
+-
+Input sentence: ওঠো।
+Decoded sentence: Stop screaming.
+
+-
+Input sentence: উঠুন।
+Decoded sentence: She got angry.
+
+-
+Input sentence: বুঝে গেছি!
+Decoded sentence: Sit down.
+
+-
+Input sentence: ধরেছি!
+Decoded sentence: Stop gossiping.
+
+-
+Input sentence: বুঝেছো?
+Decoded sentence: Sit down.
+
+-
+Input sentence: বুঝেছেন?
+Decoded sentence: Sit down.
+
+-
+Input sentence: বুঝেছিস?
+Decoded sentence: Sit down.
+
+-
+Input sentence: আমি জানি।
+Decoded sentence: I'm not proud of that.
+
+-
+Input sentence: আমার জানা আছে।
+Decoded sentence: I have a cold.
+
+-
+Input sentence: আমি হেরে গেছি।
+Decoded sentence: I'm not proud of this.
+
+-
+Input sentence: আমার ১৯ বছর বয়স।
+Decoded sentence: I have a cold.
+
+-
+Input sentence: আমি ঠিক আছি।
+Decoded sentence: I'm not proud of it.
+
+-
+Input sentence: শোন।
+Decoded sentence: "Thanks, this is enough."
+
+-
+Input sentence: শুনুন।
+Decoded sentence: The station is pretty far.
+
+-
+Input sentence: কোন মতেই না!
+Decoded sentence: No problem.
+
+-
+Input sentence: সত্যি?
+Decoded sentence: He can speak Japanese.
+
+-
+Input sentence: তাই নাক?
+Decoded sentence: That's my brother.
+
+-
+Input sentence: ধন্যবাদ।
+Decoded sentence: She got sick this weekend.
+
+-
+Input sentence: চেখে দেখুন।
+Decoded sentence: Stop screaming.
+
+-
+Input sentence: চেখে দেখো।
+Decoded sentence: Stop screaming.
+
+-
+Input sentence: আমরা জিতে গেছে।
+Decoded sentence: We're going the wrong way.
+
+-
+Input sentence: আমিই কেন?
+Decoded sentence: I want to see how Tom lives.
+
+-
+Input sentence: টমকে জিজ্ঞাসা করো।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে জিজ্ঞাসা করুন।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে জিজ্ঞাসা কর।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: আমাকে ডেক।
+Decoded sentence: Tell me.
+
+-
+Input sentence: আমাকে ডাকবেন।
+Decoded sentence: Tell me.
+
+-
+Input sentence: আমাকে ডাকিস।
+Decoded sentence: Tell me.
+
+-
+Input sentence: আমাদের ডেকো।
+Decoded sentence: Let me speak.
+
+-
+Input sentence: আমাদের ডাকিস।
+Decoded sentence: Let me speak.
+
+-
+Input sentence: আমাদের ডাকবেন।
+Decoded sentence: Let me speak.
+
+-
+Input sentence: ভেতরে আসুন।
+Decoded sentence: Don't come in.
+
+-
+Input sentence: ভেতরে আসো।
+Decoded sentence: Don't come in.
+
+-
+Input sentence: টমকে আনো।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে ডাকো।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে ধরো।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে আনুন।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে ডাকুন।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে ধরুন।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: বেরও।
+Decoded sentence: Sit down.
+
+-
+Input sentence: বেরো।
+Decoded sentence: Sit down.
+
+-
+Input sentence: চলে যাও!
+Decoded sentence: Stop screaming.
+
+-
+Input sentence: চলে যান।
+Decoded sentence: Stop screaming.
+
+-
+Input sentence: চলে যাও।
+Decoded sentence: Stop screaming.
+
+-
+Input sentence: চলে যান।
+Decoded sentence: Stop screaming.
+
+-
+Input sentence: বাড়ি যাও।
+Decoded sentence: Step outside.
+
+-
+Input sentence: বাড়ি যা।
+Decoded sentence: Step outside.
+
+-
+Input sentence: বাড়ি যান।
+Decoded sentence: Step outside.
+
+-
+Input sentence: আস্তে যান।
+Decoded sentence: "I am your friend, right?"
+
+-
+Input sentence: আস্তে যাও।
+Decoded sentence: "I am your friend, right?"
+
+-
+Input sentence: আস্তে যা।
+Decoded sentence: "I am your friend, right?"
+
+-
+Input sentence: বিদায়।
+Decoded sentence: Sit down.
+
+-
+Input sentence: এলাম!
+Decoded sentence: Stop gossiping.
+
+-
+Input sentence: সে এসেছিলো।
+Decoded sentence: He is a doctor.
+
+-
+Input sentence: উনি এসেছিলেন।
+Decoded sentence: He is a doctor.
+
+-
+Input sentence: ও এসেছিলো।
+Decoded sentence: She is a doctor.
+
+-
+Input sentence: তিনি এসেছিলেন।
+Decoded sentence: He is a doctor.
+
+-
+Input sentence: এ দৌড়ায়।
+Decoded sentence: She's my wifee to tacket.
+
+-
+Input sentence: ইনি দৌড়ান।
+Decoded sentence: He is a doctor.
+
+-
+Input sentence: ও দৌড়ায়।
+Decoded sentence: He is a doctor.
+
+-
+Input sentence: সে দৌড়ায়।
+Decoded sentence: He is a doctor.
+
+-
+Input sentence: উনি দৌড়ান।
+Decoded sentence: He is a doctor.
+
+-
+Input sentence: তিনি দৌড়ান।
+Decoded sentence: He is a doctor.
+
+-
+Input sentence: আমাকে সাহায্য করুন!
+Decoded sentence: Tell me.
+
+-
+Input sentence: আমাদের সাহায্য করুন।
+Decoded sentence: Let me speak.
+
+-
+Input sentence: আমাদের সাহায্য করো।
+Decoded sentence: Let me speak.
+
+-
+Input sentence: আমাদের সাহায্য কর।
+Decoded sentence: Let me speak.
+
+-
+Input sentence: টমকে মারো।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে মার।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: টমকে মারুন।
+Decoded sentence: Tom still has a few options.
+
+-
+Input sentence: আমি একমত।
+Decoded sentence: I'm not proud of this.
+
+-
+Input sentence: আমি চেষ্টা করেছিলাম।
+Decoded sentence: I want to be as tall as Tom.
+
+-
+Input sentence: আমি চেষ্টা করেছি।
+Decoded sentence: I'm not proud of this.
+
+-
+Input sentence: আমি টম।
+Decoded sentence: I'm not proud of it.
+
+-
+Input sentence: আমি লাজুক।
+Decoded sentence: I'm not proud of that.
+
+-
+Input sentence: আমি ভিজে গেছি।
+Decoded sentence: I'm not proud of that.
+
+-
+Input sentence: আমি।
+Decoded sentence: I'm not proud of it.
+
+-
+Input sentence: ওটা রাখো।
+Decoded sentence: That's my brother.
+
+-
+Input sentence: ওটা রাখুন।
+Decoded sentence: That's my brother.
+
+-
+Input sentence: ওটা রাখ।
+Decoded sentence: That's my brother.
+
+-
+Input sentence: আমিও।
+Decoded sentence: I'm not proud of this.
+
+-
+Input sentence: একদম ঠিক!
+Decoded sentence: They don't care.
+
+
+(tensor) C:\Users\HP\Downloads\

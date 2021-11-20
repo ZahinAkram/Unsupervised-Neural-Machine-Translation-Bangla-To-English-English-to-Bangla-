@@ -1,0 +1,398 @@
+Input sentence: Go.
+Decoded sentence: যাও।
+
+-
+Input sentence: Go.
+Decoded sentence: যাও।
+
+-
+Input sentence: Go.
+Decoded sentence: যাও।
+
+-
+Input sentence: Run!
+Decoded sentence: পালাও!
+
+-
+Input sentence: Run!
+Decoded sentence: পালাও!
+
+-
+Input sentence: Who?
+Decoded sentence: কে খেয়েছিল?
+
+-
+Input sentence: Fire!
+Decoded sentence: আগুন!
+
+-
+Input sentence: Help!
+Decoded sentence: বাঁচান!
+
+-
+Input sentence: Help!
+Decoded sentence: বাঁচান!
+
+-
+Input sentence: Stop!
+Decoded sentence: চেঁচানো বন্ধ করুন।
+
+-
+Input sentence: Stop!
+Decoded sentence: চেঁচানো বন্ধ করুন।
+
+-
+Input sentence: Stop!
+Decoded sentence: চেঁচানো বন্ধ করুন।
+
+-
+Input sentence: Hello!
+Decoded sentence: নমস্কার!
+
+-
+Input sentence: I see.
+Decoded sentence: আমি চিৎকার করলাম।
+
+-
+Input sentence: I try.
+Decoded sentence: আমি চেষ্টা করেছিলাম।
+
+-
+Input sentence: Smile.
+Decoded sentence: একটু হাসুন।
+
+-
+Input sentence: Smile.
+Decoded sentence: একটু হাসুন।
+
+-
+Input sentence: Attack!
+Decoded sentence: অনুগ্রহ করে শুনবেন!
+
+-
+Input sentence: Get up.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Get up.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Got it!
+Decoded sentence: বুঝেছেন?
+
+-
+Input sentence: Got it!
+Decoded sentence: বুঝেছেন?
+
+-
+Input sentence: Got it?
+Decoded sentence: বুঝেছেন?
+
+-
+Input sentence: Got it?
+Decoded sentence: বুঝেছেন?
+
+-
+Input sentence: Got it?
+Decoded sentence: বুঝেছেন?
+
+-
+Input sentence: I know.
+Decoded sentence: আমি জানতাম যে টম ওটা জিজ্ঞাসা করবে।
+
+-
+Input sentence: I know.
+Decoded sentence: আমি জানতাম যে টম ওটা জিজ্ঞাসা করবে।
+
+-
+Input sentence: I lost.
+Decoded sentence: আমি হেরে গেছি।
+
+-
+Input sentence: I'm 19.
+Decoded sentence: আমি একদমই ক্লান্ত নই।
+
+-
+Input sentence: I'm OK.
+Decoded sentence: আমি একদমই ক্লান্ত নই।
+
+-
+Input sentence: Listen.
+Decoded sentence: মন দিয়ে শুনুন।
+
+-
+Input sentence: Listen.
+Decoded sentence: মন দিয়ে শুনুন।
+
+-
+Input sentence: No way!
+Decoded sentence: কোন মতেই না!
+
+-
+Input sentence: Really?
+Decoded sentence: আগে এটা পড়ুন।
+
+-
+Input sentence: Really?
+Decoded sentence: আগে এটা পড়ুন।
+
+-
+Input sentence: Thanks.
+Decoded sentence: ধন্যবাদ, এতেই হবে।
+
+-
+Input sentence: Try it.
+Decoded sentence: চেখে দেখো।
+
+-
+Input sentence: Try it.
+Decoded sentence: চেখে দেখো।
+
+-
+Input sentence: We won.
+Decoded sentence: আমরা পার্কে খেলছি।
+
+-
+Input sentence: Why me?
+Decoded sentence: আমিই কেন?
+
+-
+Input sentence: Ask Tom.
+Decoded sentence: আমাকে আবার অক্টোবরে জিজ্ঞাসা করবেন।
+
+-
+Input sentence: Ask Tom.
+Decoded sentence: আমাকে আবার অক্টোবরে জিজ্ঞাসা করবেন।
+
+-
+Input sentence: Ask Tom.
+Decoded sentence: আমাকে আবার অক্টোবরে জিজ্ঞাসা করবেন।
+
+-
+Input sentence: Call me.
+Decoded sentence: আমাকে আগামীকাল ফোন করবেন।
+
+-
+Input sentence: Call me.
+Decoded sentence: আমাকে আগামীকাল ফোন করবেন।
+
+-
+Input sentence: Call me.
+Decoded sentence: আমাকে আগামীকাল ফোন করবেন।
+
+-
+Input sentence: Call us.
+Decoded sentence: আমাকে আগামীকাল ফোন করবেন।
+
+-
+Input sentence: Call us.
+Decoded sentence: আমাকে আগামীকাল ফোন করবেন।
+
+-
+Input sentence: Call us.
+Decoded sentence: আমাকে আগামীকাল ফোন করবেন।
+
+-
+Input sentence: Come in.
+Decoded sentence: আমার দিকে আসুন।
+
+-
+Input sentence: Come in.
+Decoded sentence: আমার দিকে আসুন।
+
+-
+Input sentence: Get Tom.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Get Tom.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Get Tom.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Get Tom.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Get Tom.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Get Tom.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Get out.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Get out.
+Decoded sentence: টমকে ধরুন।
+
+-
+Input sentence: Go away!
+Decoded sentence: চলে যান।
+
+-
+Input sentence: Go away!
+Decoded sentence: চলে যান।
+
+-
+Input sentence: Go away.
+Decoded sentence: চলে যান।
+
+-
+Input sentence: Go away.
+Decoded sentence: চলে যান।
+
+-
+Input sentence: Go home.
+Decoded sentence: বাড়ি যান।
+
+-
+Input sentence: Go home.
+Decoded sentence: বাড়ি যান।
+
+-
+Input sentence: Go home.
+Decoded sentence: বাড়ি যান।
+
+-
+Input sentence: Go slow.
+Decoded sentence: আস্তে যা।
+
+-
+Input sentence: Go slow.
+Decoded sentence: আস্তে যা।
+
+-
+Input sentence: Go slow.
+Decoded sentence: আস্তে যা।
+
+-
+Input sentence: Goodbye!
+Decoded sentence: শুভ রাত্রি।
+
+-
+Input sentence: Goodbye!
+Decoded sentence: শুভ রাত্রি।
+
+-
+Input sentence: He came.
+Decoded sentence: তাঁর যা ইচ্ছে তিনি বলতে পারেন।
+
+-
+Input sentence: He came.
+Decoded sentence: তাঁর যা ইচ্ছে তিনি বলতে পারেন।
+
+-
+Input sentence: He came.
+Decoded sentence: তাঁর যা ইচ্ছে তিনি বলতে পারেন।
+
+-
+Input sentence: He came.
+Decoded sentence: তাঁর যা ইচ্ছে তিনি বলতে পারেন।
+
+-
+Input sentence: He runs.
+Decoded sentence: তিনি দৌড়ান।
+
+-
+Input sentence: He runs.
+Decoded sentence: তিনি দৌড়ান।
+
+-
+Input sentence: He runs.
+Decoded sentence: তিনি দৌড়ান।
+
+-
+Input sentence: He runs.
+Decoded sentence: তিনি দৌড়ান।
+
+-
+Input sentence: He runs.
+Decoded sentence: তিনি দৌড়ান।
+
+-
+Input sentence: He runs.
+Decoded sentence: তিনি দৌড়ান।
+
+-
+Input sentence: Help me!
+Decoded sentence: আমাদের সাহায্য করুন।
+
+-
+Input sentence: Help us.
+Decoded sentence: আমাদের সাহায্য করুন।
+
+-
+Input sentence: Help us.
+Decoded sentence: আমাদের সাহায্য করুন।
+
+-
+Input sentence: Help us.
+Decoded sentence: আমাদের সাহায্য করুন।
+
+-
+Input sentence: Hit Tom.
+Decoded sentence: টমকে মারুন।
+
+-
+Input sentence: Hit Tom.
+Decoded sentence: টমকে মারুন।
+
+-
+Input sentence: Hit Tom.
+Decoded sentence: টমকে মারুন।
+
+-
+Input sentence: I agree.
+Decoded sentence: আমি পুরোপুরি একমত।
+
+-
+Input sentence: I tried.
+Decoded sentence: আমি চেষ্টা করেছিলাম।
+
+-
+Input sentence: I tried.
+Decoded sentence: আমি চেষ্টা করেছিলাম।
+
+-
+Input sentence: I'm Tom.
+Decoded sentence: আমি এখন ফুটবল খেলছি।
+
+-
+Input sentence: I'm shy.
+Decoded sentence: আমি এখনো তোমাদের বন্ধু আছি।
+
+-
+Input sentence: I'm wet.
+Decoded sentence: আমি একদমই ক্লান্ত নই।
+
+-
+Input sentence: It's me.
+Decoded sentence: এখন প্রায় ছটা বাজে।
+
+-
+Input sentence: Keep it.
+Decoded sentence: ওটা রাখুন।
+
+-
+Input sentence: Keep it.
+Decoded sentence: ওটা রাখুন।
+
+-
+Input sentence: Keep it.
+Decoded sentence: ওটা রাখুন।
+
+-
+Input sentence: Me, too.
+Decoded sentence: আমিও।
+
+-
+Input sentence: Perfect!
+Decoded sentence: আমার পেট ভর্তি।
